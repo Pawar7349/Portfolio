@@ -5,7 +5,7 @@ import btnImg from "./../Navbar/assets/hireme.png";
 import bg from "./../Navbar/assets/image.png";
 
 const handleButtonClick = () => {
-  window.location.href = `https://drive.google.com/file/d/1o060nMGezAlg1WwO9OjolgPTJvqx8rSR/view?usp=drive_link`;
+  window.location.href = `https://drive.google.com/file/d/1cOHpYor-WV1d4ICBnw_RDdzVpbY_N3oh/view?usp=drivesdk`;
 };
 const Intro = () => {
   return (
